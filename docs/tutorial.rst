@@ -49,7 +49,7 @@ application by running:
 
 ::
 
-    $ quepy.py startapp dbpedia
+    $ python quepy startapp dbpedia
 
 
 You'll find out that a folder and some files where created.
